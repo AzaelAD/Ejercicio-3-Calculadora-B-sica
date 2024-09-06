@@ -1,0 +1,54 @@
+:root {
+    background-color:cadetblue;
+}
+
+h2 {
+    font-family: Courier;
+    color:rgb(255, 255, 255);
+    font-size: 3em;
+    line-height: 1.1;
+    text-align: center;
+}
+
+form {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2em;
+    color:#242424;
+    text-align: center;
+    font-weight: bold;
+}
+
+.boton {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    background-color: #242424;
+    border-radius: 4px;
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+    width: 35px;
+    border-style: none;
+}
+
+.campo {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2em;
+    color:#242424;
+    text-align: center;
+    border-color: transparent;
+}
+
+button {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    background-color:darkslateblue;
+    border-style:double;
+    border-color:#242424;
+    display: block;
+    padding: 0.5rem 1rem;
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+}
