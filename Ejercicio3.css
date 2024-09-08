@@ -10,7 +10,7 @@ h2 {
     text-align: center;
 }
 
-form {
+div {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1.2em;
     color:#242424;
@@ -37,18 +37,3 @@ form {
     border-color: transparent;
 }
 
-button {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: medium;
-    font-weight: bold;
-    color: rgb(255, 255, 255);
-    border-radius: 4px;
-    background-color:darkslateblue;
-    border-style:double;
-    border-color:#242424;
-    display: block;
-    padding: 0.5rem 1rem;
-    width: 300px;
-    height: 50px;
-    margin: 0 auto;
-}
